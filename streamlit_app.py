@@ -8,6 +8,7 @@ from transformers import MarianMTModel, MarianTokenizer, pipeline
 
 st.title('Big Brain Translator: Angielski na Niemiecki')
 st.markdown("### Witaj w Big Brain Translator! 🧠🌐")
+st.image('https://cdn.pixabay.com/photo/2021/11/01/14/24/typewriter-6760585_1280.jpg', caption='Big Brain Translator')
 
 st.write("Ta aplikacja umożliwia przetłumaczenie tekstu z języka angielskiego na niemiecki oraz ocenę wydźwięku emocjonalnego tekstu w języku angielskim.")
 st.subheader('Instukcja')
