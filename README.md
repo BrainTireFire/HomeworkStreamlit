@@ -1,4 +1,4 @@
 # Homework Streamlit
 
 ## Description
-Easy homework from SUML subject
+Python using streamlit small project for the subject in school SUML
